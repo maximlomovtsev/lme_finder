@@ -2,6 +2,7 @@ project(lme_finder_core)
 
 set(SOURCES
     impl/finder_impl.cpp
+    impl/find_engine_vk.cpp
 )
 
 set(INCLUDE_DIRECTORIES
